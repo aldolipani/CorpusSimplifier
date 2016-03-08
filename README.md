@@ -1,3 +1,3 @@
 # CorpusSimplifier
 
-A set of tool to preprocess a collection of documents
+A set of tools to preprocess collections of documents
